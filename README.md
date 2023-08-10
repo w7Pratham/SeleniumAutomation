@@ -23,18 +23,18 @@ Welcome to Selenium Automation! This repository contains Selenium scripts to aut
 
 - On macOS and Linux:
   ```
-  python3 -m venv venv
+  python3 -m venv myenv
   ```
   ```
-  source venv/bin/activate
+  source myenv/bin/activate
   ```
 
 - On Windows:
   ```
-  python -m venv venv
+  python -m venv myenv
   ```
   ```
-  .\venv\Scripts\activate
+  .\myenv\Scripts\activate
   ```
 
 3. **Install Dependencies:**
