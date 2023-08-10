@@ -19,7 +19,7 @@ Welcome to Selenium Automation! This repository contains Selenium scripts to aut
   git clone https://github.com/w7Pratham/SeleniumAutomation.git
   ```
 
-3. **Virtual Environment Setup:**
+2. **Virtual Environment Setup:**
 
 - On macOS and Linux:
   ```
